@@ -13,5 +13,5 @@ Turn Wikipedia pages into mp3s using AWS Polly.
 ### Install and Run
 
  1. Download or clone this repo.
- 2. In the commandline, navigate to WikiCast
+ 2. In the commandline, navigate to WikiCast/src
  3. Run `python3 __main__.py`, and put the Wikipedia URL in at the prompt.
