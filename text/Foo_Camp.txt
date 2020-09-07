@@ -1,0 +1,18 @@
+Foo Camp. 
+
+ 
+Foo Camp is an annual hacker event hosted by publisher O'Reilly Media. O'Reilly describes it as "the wiki of conferences", where the program is developed by the attendees at the event, using big whiteboard schedule templates that can be rewritten or overwritten by attendees to optimize the schedule; this type of event is sometimes called an unconference.
+ 
+The event started as a joke between Tim O'Reilly and Sara Winge, O'Reilly's VP of Corporate Communications. Sara had always wanted to run a foo bar, an open bar for Friends of O'Reilly, at one of O'Reilly's conferences. That joke morphed into a brainstorm after the dot com bust left O'Reilly with much unused office space in its new buildings, creating the opportunity for Foo Camp. The first FOO Camp was held in October 2003, and had approximately 200 attendees. There was eventually a Foo Bar at the camp.
+ 
+Tim O'Reilly describes the goal of his company as "changing the world by spreading the knowledge of innovators." Foo Camp has evolved into an important mechanism for finding those innovators. O'Reilly asks attendees to nominate new and interesting people to be invited to future camps.
+ 
+Other events. 
+In 2005, a complementary alternative BarCamp was created by a past attendee of Foo Camp and a few individuals who were interested in organizing their own version of Foo Camp, and hosted at the Socialtext offices in Palo Alto, California, by Socialtext founder Ross Mayfield, with an open invitation to anyone who wanted to join.
+ 
+Since February 2007, former O'Reilly employee Nathan Torkington has hosted an annual Kiwi Foo Camp in Warkworth, New Zealand
+ 
+O'Reilly has since held a series of topical Foo Camps at Google Headquarters, including Science Foo Camp, Collective Intelligence Foo Camp, Social Graph Foo Camp, and others. February 2019, O'Reilly co-organized its second Social Science Foo Camp with Facebook and SAGE at the Facebook campus in Menlo Park. December 2010, O'Reilly co-organized NewsFoo with Google and the Knight Foundation at the Walter Cronkite School of Journalism and Mass Communication in Phoenix Arizona.
+ 
+In 2011, O'Reilly announced the Health Foo on the Robert Wood Johnson Foundation Blog. In February 2018, O’Reilly, Facebook and SAGE Publications held the first Social Science Foo Camp at Facebook in Menlo Park, California.
+ 
